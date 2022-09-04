@@ -1,7 +1,7 @@
 ### Hi there. I'm Eugene
 
-Facts:<br>
-- 🇺🇦 Ukrainian
+Facts about me:<br>
+- 🇺🇦 I'm Ukrainian
 - 👨‍💼 Currently working at [mirato](https://mirato.com/) at position of Software Architect
 - 💼 Participated 12+ different projects
 - 👌 Working in Software Development since 2004
@@ -10,7 +10,7 @@ Facts:<br>
 - 👨‍🏫 I teach people to code
 - 🤝 I’m looking to collaborate on [asty](https://github.com/asty-org)
 
-Languages technologies and tools: <br>
+Languages technologies and tools: <br><br>
 <img width="25" height="25" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="25" height="25" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="25" height="25" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -55,4 +55,5 @@ Languages technologies and tools: <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgenus/)
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:chernyshov.eugene@gmail.com)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/evgenus)
 
