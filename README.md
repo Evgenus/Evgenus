@@ -1,5 +1,6 @@
 ### Hi there. I'm Eugene
 
+Facts:<br>
 - 🇺🇦 Ukrainian
 - 👨‍💼 Currently working at [mirato](https://mirato.com/) at position of Software Architect
 - 💼 Participated 12+ different projects
@@ -9,7 +10,7 @@
 - 👨‍🏫 I teach people to code
 - 🤝 I’m looking to collaborate on [asty](https://github.com/asty-org)
 
-I use: <br>
+Languages technologies and tools: <br>
 <img width="25" height="25" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="25" height="25" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="25" height="25" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
