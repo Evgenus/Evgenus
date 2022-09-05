@@ -10,7 +10,8 @@ Facts about me:<br>
 - 👨‍🏫 I teach people to code
 - 🤝 I’m looking to collaborate on [asty](https://github.com/asty-org)
 
-Languages technologies and tools: <br><br>
+Languages, technologies and tools: <br>
+<br>
 <img width="25" height="25" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="25" height="25" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="25" height="25" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
