@@ -53,6 +53,7 @@ Languages, technologies and tools: <br>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Evgenus&count_private=true&show_icons=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/evgenus?theme=light&font=Roboto)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgenus/)
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:chernyshov.eugene@gmail.com)
