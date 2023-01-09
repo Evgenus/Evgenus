@@ -4,7 +4,8 @@ import App from './app';
 import "./wasm/wasm_exec"
 
 function wasmURL() {
-    return "./static/proxx.wasm";
+    const url = new URL("static/proxx.wasm", globalThis.location.href);
+    return url.href
 }
 
 // Go from ./wasm/wasm_exec
