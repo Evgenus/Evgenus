@@ -83,7 +83,7 @@ function App() {
                 </div>
             </div>
             {!started && <div className="row d-flex justify-content-center">
-                <div className="col-4">
+                <div className="col-6">
                     <div className="mb-3 row">
                         <label htmlFor="inputSize" className="col-sm-4 col-form-label">Board size:</label>
                         <div className="col-sm-8">
