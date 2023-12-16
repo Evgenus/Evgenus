@@ -2,15 +2,15 @@
 
 Facts about me:<br>
 - 🇺🇦 I'm Ukrainian
-- 👨‍💼 Currently working at [mirato](https://mirato.com/) at position of Software Architect
+- 👨‍💼 Currently working at [PIN-UP.TECH](https://www.linkedin.com/company/pin-up-tech/) at the position of Software Architects Team Lead
 - 💼 Participated 12+ different projects
 - 👌 Working in Software Development since 2004
-- 👨‍🎓 Have masters degree on Computer Science
+- 👨‍🎓 Have a master's degree in Computer Science
 - ❤️ I love Python
 - 👨‍🏫 I teach people to code
 - 🤝 I’m looking to collaborate on [asty](https://github.com/asty-org)
 
-Languages, technologies and tools: <br>
+Languages, technologies, and tools: <br>
 <br>
 <img width="25" height="25" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="25" height="25" title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
