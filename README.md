@@ -2,7 +2,7 @@
 
 Facts about me:<br>
 - 🇺🇦 I'm Ukrainian
-- 👨‍💼 Currently working at the position of Heat of Technology
+- 👨‍💼 Currently working at the position of Head of Technology
 - 💼 Participated 12+ different projects
 - 👌 Working in Software Development since 2004
 - 👨‍🎓 Have a master's degree in Computer Science
