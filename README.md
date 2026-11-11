@@ -2,7 +2,7 @@
 
 Facts about me:<br>
 - 🇺🇦 I'm Ukrainian
-- 👨‍💼 Currently working at the position of Head of Technology
+- 👨‍💼 Currently working in the position of Solution Architect
 - 💼 Participated 12+ different projects
 - 👌 Working in Software Development since 2004
 - 👨‍🎓 Have a master's degree in Computer Science
